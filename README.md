@@ -5,6 +5,7 @@
 
 To build a 6-degree-of-freedom (6DOF) robotic arm that can identify and handle objects based on their properties using a Raspberry Pi, follow these structured steps:
 Components Required
+
 Robotic Arm Kit: Ensure it includes servos (e.g., MG996R) and all necessary mechanical parts.
 Raspberry Pi: Preferably Raspberry Pi 4 for better processing capabilities.
 Camera Module: For object detection.
